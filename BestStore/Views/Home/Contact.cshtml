@@ -1,0 +1,70 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+
+<div class="container" style="margin-top:30px;">
+
+    <div class="panel panel-info">
+        
+        <div class="panel-heading text-center">
+            <h2 style="margin:0;">Contact BestStore</h2>
+        </div>
+
+        <div class="panel-body" style="padding:30px;">
+
+            <h4 class="text-primary">
+                @ViewData["Message"]
+            </h4>
+
+            <hr />
+
+            <div class="row">
+
+                <div class="col-md-4 text-center">
+                    <span class="glyphicon glyphicon-map-marker"
+                          style="font-size:40px; color:#337ab7;"></span>
+
+                    <h4>Address</h4>
+
+                    <p style="font-size:16px;">
+                        @ViewData["Address"]
+                    </p>
+                </div>
+
+                <div class="col-md-4 text-center">
+                    <span class="glyphicon glyphicon-earphone"
+                          style="font-size:40px; color:#5cb85c;"></span>
+
+                    <h4>Phone</h4>
+
+                    <p style="font-size:16px;">
+                        @ViewData["Phone"]
+                    </p>
+                </div>
+
+                <div class="col-md-4 text-center">
+                    <span class="glyphicon glyphicon-envelope"
+                          style="font-size:40px; color:#d9534f;"></span>
+
+                    <h4>Email</h4>
+
+                    <p style="font-size:16px;">
+                        @ViewData["Email"]
+                    </p>
+                </div>
+
+            </div>
+
+            <div class="text-center" style="margin-top:30px;">
+                <a asp-controller="Products"
+                   asp-action="Index"
+                   class="btn btn-primary btn-lg">
+                    View Products
+                </a>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

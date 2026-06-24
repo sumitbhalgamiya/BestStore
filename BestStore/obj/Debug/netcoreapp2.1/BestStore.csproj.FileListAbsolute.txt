@@ -1,0 +1,113 @@
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.deps.json
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.runtimeconfig.json
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.runtimeconfig.dev.json
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.dll
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.csprojAssemblyReference.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.csproj.CoreCompileInputs.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.RazorAssemblyInfo.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.RazorAssemblyInfo.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.AssemblyInfoInputs.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.AssemblyInfo.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.TagHelpers.input.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.TagHelpers.output.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.RazorCoreGenerate.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.RazorTargetAssemblyInfo.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.RazorTargetAssemblyInfo.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.pdb
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.Views.dll
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.Views.pdb
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.Views.pdb
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.dll
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.pdb
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.csproj.CopyComplete
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.g.cshtml.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.g.cshtml.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.deps.json
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.runtimeconfig.json
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.runtimeconfig.dev.json
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.dll
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.pdb
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.Views.dll
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.Views.pdb
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.csproj.AssemblyReference.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.AssemblyInfoInputs.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.AssemblyInfo.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.csproj.CoreCompileInputs.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.RazorAssemblyInfo.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.RazorAssemblyInfo.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.TagHelpers.input.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.TagHelpers.output.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.RazorCoreGenerate.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.cshtml.g.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.cshtml.g.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.RazorTargetAssemblyInfo.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.RazorTargetAssemblyInfo.cs
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.Views.pdb
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.dll
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.pdb
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.genruntimeconfig.cache
+D:\Sumit\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.csproj.Up2Date
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.deps.json
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.runtimeconfig.json
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.runtimeconfig.dev.json
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.pdb
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.Views.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\bin\Debug\netcoreapp2.1\BestStore.Views.pdb
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.csproj.AssemblyReference.cache
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.AssemblyInfoInputs.cache
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.AssemblyInfo.cs
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.csproj.CoreCompileInputs.cache
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.RazorAssemblyInfo.cache
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.RazorAssemblyInfo.cs
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.TagHelpers.input.cache
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.TagHelpers.output.cache
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.RazorCoreGenerate.cache
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.cshtml.g.cs
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.cshtml.g.cs
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.RazorTargetAssemblyInfo.cache
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.RazorTargetAssemblyInfo.cs
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.Views.pdb
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.pdb
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.genruntimeconfig.cache
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Entity Framework(With Migration)\BestStore\BestStore\obj\Debug\netcoreapp2.1\BestStore.csproj.Up2Date
